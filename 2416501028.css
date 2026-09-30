@@ -113,7 +113,6 @@ article.card a:hover, .link-btn:hover {
   text-decoration: underline;
 }
 
-/* Detay Sayfası Yerleşimi */
 .detail-layout {
   display: flex;
   flex-direction: column;
